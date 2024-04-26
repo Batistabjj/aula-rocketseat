@@ -1,0 +1,42 @@
+body {
+    /*
+    background-image: url(./bg-mobile.jpg);
+    background-repeat: no-repeat; , para parar uma imagem de repetiçao
+    background-position: top center;  ,  para a imagem pegar do topo ate em baixo da tela
+    background-size: cover; ,  para que a imagem se adpte ao tamanho da tela
+    */
+
+    /*background: color image repeat position/size */
+
+    background: url(./bg-mobile.jpg) no-repeat top center/cover
+}
+
+#container {
+    width: 360px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+#profile {
+    text-align: center;
+}
+   
+   
+
+#profile img {
+    width: 112px;
+    
+}
+
+
+    
+
+    
+
+
+
+   
+
+
+
+
